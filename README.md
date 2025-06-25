@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdullahfarahidy
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on web application projects
+- 🌱 I’m currently developing Java(Spring) javascript(React+Node) Apps
+- 💞️ I’m looking to collaborate on web/Mobile application projects
 - 📫 How to reach me https://www.linkedin.com/in/abdullah-el-zohry-260552228/
 
 <!---
